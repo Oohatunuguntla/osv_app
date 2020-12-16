@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159886243435",
+    "project_id": "offline-signature-verifi-a0001",
+    "storage_bucket": "offline-signature-verifi-a0001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159886243435:android:95a315c36fc5a5ddd5a32e",
+        "android_client_info": {
+          "package_name": "com.example.Offline_Signature_Verifictaion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159886243435-a1fqtlfvgnr2r0um0bpi3l5fq7evsvif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGaum1yWYuXFTOBENz4UNzEjPDL6PoAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159886243435-a1fqtlfvgnr2r0um0bpi3l5fq7evsvif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
